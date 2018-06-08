@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* -----------------------------------------------------------*/
+@media only screen and (max-width: 1024px) {
+.head_left span {font-size: 15px;padding: 0 8px;}	
+.head_left span a {font-size: 15px;padding: 0 8px;}
+.box {padding: 6px;}
+.box1 {padding: 6px;}
+.img_text1 {font-size: 18px;margin: 40px 9px;width: 49%;}
+.img_text { font-size: 19px;margin: 32px 0 0 27px;width: 52%;}
+.hand {margin-bottom: 116px;padding: 140px 9px;}
+.hand_text {padding:101px 26px;}
+.hand_text h1 {font-size: 31px;}
+.ft_rt {padding: 35px 23px;}
+.ft_lf {padding: 31px 0 0 28px;}
+.ft_text {margin: 0 0 0 11px; width: 66%;}
+.ft_text h1 {font-size: 18px;}
+.ft_text ul li {height: 35px;width: 35px;}
+.ft_text a {display: flex;}
+.ft_text .fa-facebook{margin: 3px 7px; vertical-align:middle;}
+.ft_text .fa-twitter {margin: 3px 4px;}
+.ft_text .fa-google-plus {margin: 7px 4px 0;font-size: 18px;}
+.ft_text .fa-linkedin {margin: 6px 4px 0;font-size: 18px;}
+.text {width: 38%;}
+.text1 {margin-right: 21px;}
+
+
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+/*================================home=================================*/
+.head_left span {font-size: 15px;padding: 0 8px;}	
+.head_left span a {font-size: 15px;padding: 0 8px;}
+.box {padding: 6px;}
+.box1 {padding: 6px;}
+.img_text1 {font-size: 18px;margin: 40px 9px;width: 49%;}
+.img_text { font-size: 19px;margin: 32px 0 0 27px;width: 52%;}
+.hand {margin-bottom: 116px;padding: 140px 9px;}
+.hand_text {padding: 58px 26px;}
+.hand_text h1 {font-size: 31px;}
+.ft_rt {padding: 23px 7px;}
+.ft_lf {padding: 17px 0 0 8px;}
+.ft_text {margin: 0 0 0 11px; width: 66%;}
+.ft_text h1 {font-size: 18px;}
+.ft_text ul li {height: 35px;width: 35px;}
+.ft_text a {display: flex;}
+.ft_text .fa-facebook{margin: 3px 7px; vertical-align:middle;}
+.ft_text .fa-twitter {margin: 3px 4px;}
+.ft_text .fa-google-plus {margin: 7px 4px 0;font-size: 18px;}
+.ft_text .fa-linkedin {margin: 6px 4px 0;font-size: 18px;}
+/*================================home=================================*/	
+.text {width: 35%;}
+.text1 {margin-right: 4px;}
+.media__body > h2 {font-size: 17px;}
+.media__body p {font-size: 11px;}
+
+	}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+/*================================home=================================*/
+.js #menu {display:none;}
+.js .slicknav_menu {display:block;}
+.head_left span {font-size: 12px;padding: 0;}
+.head_left span a {font-size: 12px;padding: 0;}
+.social {float: none;}
+.box {padding: 10px;}
+.img_text {font-size: 20px;margin: 38px 0 0 29px;width: 61%;}
+.box1 {padding: 10px;}
+.img_text1 {font-size: 20px;margin: 38px 0 0 23px;width: 61%;}
+.mid_sec h1 {font-size: 30px;}
+.hand {margin-bottom: 40px;padding: 140px 0;}
+.hand_text {padding: 43px 15px;}
+.hand_text h1 {font-size: 25px;}
+.advantage h1 {font-size: 30px;}
+.test_head h1 {font-size: 36px;}
+.ft_text ul li {height: 38px;width: 38px;}
+.ft_text .fa-facebook{margin: 3px 7px; vertical-align:middle;}
+.ft_text .fa-twitter {margin: 3px 4px;}
+.ft_text .fa-google-plus {margin: 7px 4px 0;font-size: 18px;}
+.ft_text .fa-linkedin {margin: 6px 9px 0;font-size: 18px;}
+/*================================home=================================*/
+/*================================About=================================*/
+.abt_banner h2 {font-size: 17px;left: 20px;top: 10px;}
+.abt_text p {font-size: 17px;}
+.abt_text {padding: 10px;}
+/*================================About=================================*/
+/*================================Conatact=================================*/
+.text {margin-left: 16px;margin-right: 110px;width: 92%;}
+.text1 {font-size:13px;margin-left: 16px; margin-right:0;}
+.button {margin-left: 16px;}
+/*================================Conatact=================================*/
+
+	}
+	
+	
+@media only screen and (max-width: 479px) {
+/*================================home=================================*/
+.js #menu {display:none;}
+.js .slicknav_menu {display:block;}
+.head_left span {font-size: 12px;padding: 0;}
+.head_left span a {font-size: 12px;padding: 0;}
+.social {float: none;}
+.box {padding: 10px;}
+.img_text {font-size: 20px;margin: 38px 0 0 29px;width: 61%;}
+.box1 {padding: 10px;}
+.img_text1 {font-size: 20px;margin: 38px 0 0 23px;width: 61%;}
+.mid_sec h1 {font-size: 30px;}
+.hand {margin-bottom: 40px;padding: 140px 0;}
+.hand_text {padding: 43px 15px;}
+.hand_text h1 {font-size: 25px;}
+.advantage h1 {font-size: 30px;}
+.test_head h1 {font-size: 36px;}
+.ft_text ul li {height: 38px;width: 38px;}
+.ft_text .fa-facebook{margin: 3px 7px; vertical-align:middle;}
+.ft_text .fa-twitter {margin: 3px 4px;}
+.ft_text .fa-google-plus {margin: 7px 4px 0;font-size: 18px;}
+.ft_text .fa-linkedin {margin: 6px 9px 0;font-size: 18px;}
+/*================================home=================================*/
+/*================================About=================================*/
+.abt_banner h2 {font-size: 17px;left: 20px;top: 10px;}
+.abt_text p {font-size: 17px;}
+.abt_text {padding: 10px;}
+/*================================About=================================*/
+/*================================Conatact=================================*/
+.text {margin-left: 16px;margin-right: 110px;width: 92%;}
+.text1 {font-size:13px;margin-left: 16px; margin-right:0;}
+.button {margin-left: 16px;}
+.media__body {padding: 0.75em 2em;}
+.media__body > h2 {font-size: 18px;}
+.media__body p {font-size: 12px;}
+.media__body::before {left: 1em;right: 1em;}
+.media__body::after {bottom: 1em;top: 1em;}
+/*================================Conatact=================================*/
+}
